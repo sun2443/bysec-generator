@@ -1391,7 +1391,7 @@ export default function App() {
               src={bysecLogo} 
               alt="BYSEC Logo" 
               style={{
-                height: "40px",
+                height: "30px",
                 width: "auto",
                 objectFit: "contain"
               }}
